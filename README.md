@@ -1,4 +1,4 @@
-### Greetings 👋 my name is saber
+### Greetings 👋 I'm Saber (a.k.a. 5a8er)
 #### an Iranian cyber security specialist
 I am a software security engineer and cyber-crime researcher, skilled in offensive side of cyber security.
 Currently Developing my own unified tools to automate pentest processes of the modern web applications.
